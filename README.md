@@ -6,7 +6,7 @@ I'm a Software Engineering student aspiring to become a **Backend Developer**, f
 - 🎓 **Studying:** Software Engineering at Jimma University
 - 💻 **Core Focus:** Backend development, data structures & algorithms, and database management
 - 🌱 **Exploring:** The core concepts behind how websites work under the hood (client-server architecture, HTTP/HTTPS, APIs, and database interactions)
-- 🧩 **Problem Solving:** Practicing algorithms and data structures on [LeetCode](https://leetcode.com/u/fenet123/)
+- 🧩 **Problem Solving:** Practicing algorithms and data structures on [LeetCode](https://leetcode.com/u/aKekxVqCSt/)
 
 ### 🛠️ Languages & Tools
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
