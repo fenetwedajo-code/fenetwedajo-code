@@ -25,3 +25,4 @@ I'm a Software Engineering student aspiring to become a **Backend Developer**, f
 - 🌐 **Portfolio:** [fenetwedajo-code.github.io/latest-portfolio](https://fenetwedajo-code.github.io/latest-portfolio/)
 - 🐙 **GitHub:** [@fenetwedajo-code](https://github.com/fenetwedajo-code)
 - 📧 **Email:** [fenetwedajo@gmail.com](mailto:fenetwedajo@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/fenet-wedajo-964b47385](https://www.linkedin.com/in/fenet-wedajo-964b47385)
